@@ -1,3 +1,4 @@
+# Realice un algoritmo que permita leer un número de 3 cifras y luego mostrar su última cifra.
 puts "Introduce cifra:"
 cifra = gets.chomp.to_i
 
