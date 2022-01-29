@@ -1,3 +1,5 @@
+# Realice un algoritmo que muestre si un año es bisiesto o no.
+
 puts "Ingresa un año:"
 anio = gets.chomp.to_i
 
