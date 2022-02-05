@@ -7,7 +7,7 @@ n = gets.chomp.to_i
 dolares= 9000000
 if n == 1
     puts "Le toca el 100% de la herencia "
-else n>2 && n <=4
+elsif n>=2 && n <= 4
     total = dolares / n
     puts "a cada hijo le toca : #{total}"
 end
